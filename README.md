@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Various-Projects**
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **Web Design & Creation**
 
 - 💬 Ask me about **Foundational Programming Languages**
 
